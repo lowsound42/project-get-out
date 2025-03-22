@@ -16,8 +16,8 @@ In a nutshell, these folks set up a single PC running a BBS in 1987 and then jus
 ## Fediverse
 Of course, the obvious paradigm shift. The fediverse is, on paper, the exact thing I am looking for. Interoperable social media spaces that are built on an open protocol. Interest...piqued.
 
-### Mastodon
+### Mastodon - Twitter but not shit
 
-### Pixelfed
+### Pixelfed - Instagram but not shit
 
-### Lemmy
+### Lemmy - Reddit but not shit
