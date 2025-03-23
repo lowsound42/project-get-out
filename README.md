@@ -19,5 +19,6 @@ Of course, the obvious paradigm shift. The fediverse is, on paper, the exact thi
 ### Mastodon - Twitter but not shit
 
 ### Pixelfed - Instagram but not shit
+Gobi is no longer on Instagram. Neither am I.
 
 ### Lemmy - Reddit but not shit
