@@ -17,6 +17,7 @@ In a nutshell, these folks set up a single PC running a BBS in 1987 and then jus
 Of course, the obvious paradigm shift. The fediverse is, on paper, the exact thing I am looking for. Interoperable social media spaces that are built on an open protocol. Interest...piqued.
 
 ### Mastodon - Twitter but not shit
+Much better than Twitter.
 
 ### Pixelfed - Instagram but not shit
 Gobi is no longer on Instagram. Neither am I.
